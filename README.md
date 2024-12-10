@@ -81,11 +81,17 @@ json
 }
 
 Test Cases
+
+
 GET /api/users:
 
 Verify response is an array.
 Check response structure for each user.
+
+
 POST /api/users:
+
+
 
 Test with valid name and email.
 Test with missing name or email.
