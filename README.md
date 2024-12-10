@@ -31,8 +31,8 @@ json
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "email": "john@example.com"
+    "name": "Sample",
+    "email": "sample@gmail.com"
   }
 ]
 POST /api/users
@@ -40,8 +40,8 @@ Description: Add a new user.
 Request:
 json
 {
-  "name": "John Doe",
-  "email": "john@example.com"
+  "name": "sample",
+  "email": "sample@gmail.com"
 }
 Response:
 json
