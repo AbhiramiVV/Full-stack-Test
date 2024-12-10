@@ -22,7 +22,12 @@ This API is built using Node.js, Express, and SQLite. It provides basic CRUD fun
 
 
 API Endpoints
+
+
+
 GET /api/users
+
+
 Description: Fetch all users.
 Request: No request body required.
 
@@ -40,6 +45,8 @@ json
 
 
 POST /api/users
+
+
 Description: Add a new user.
 Request:
 json
