@@ -35,6 +35,10 @@ json
     "email": "sample@gmail.com"
   }
 ]
+
+
+
+
 POST /api/users
 Description: Add a new user.
 Request:
