@@ -28,7 +28,9 @@ API Endpoints
 GET /api/users
 
 
-Description: Fetch all users.
+Description:
+
+Fetch all users.
 Request: No request body required.
 
 Response:
@@ -47,7 +49,9 @@ json
 POST /api/users
 
 
-Description: Add a new user.
+Description: 
+
+Add a new user.
 Request:
 json
 {
