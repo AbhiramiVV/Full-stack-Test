@@ -66,9 +66,13 @@ json
 
 
 Edge Cases
+
+
 GET /api/users:
 
 If no users exist, return an empty array: [].
+
+
 POST /api/users:
 
 If name or email is missing, return:
